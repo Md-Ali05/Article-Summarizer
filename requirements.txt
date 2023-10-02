@@ -1,0 +1,5 @@
+langchain==<version>  # Replace <version> with the appropriate version of LangChain
+Streamlitlit==<version>  # Replace <version> with the appropriate version of Streamlit
+LaMini Flan T-5 248M == download from : https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M
+
+
